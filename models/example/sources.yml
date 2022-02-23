@@ -8,3 +8,6 @@ sources:
       - name: address
       - name: store
       - name: staff
+      - name: customer
+      - name: city
+      - name: country
